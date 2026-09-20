@@ -4,7 +4,7 @@ frozenlist
 idna
 lxml
 multidict
-propchace
+propcache
 soupsieve
 typing_extensions
 yarl
