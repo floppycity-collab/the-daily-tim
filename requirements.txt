@@ -14,5 +14,5 @@ aiosignal
 aiosqlite
 attr
 attrs
-beautifulsoap4
+beautifulsoup4
 bs4
